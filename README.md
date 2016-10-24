@@ -1,1 +1,1 @@
-Powerade by Freelancer Bootstrap template
+Powered by Freelancer Bootstrap template
